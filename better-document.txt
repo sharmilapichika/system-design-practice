@@ -1,0 +1,4 @@
+Welcome to my document!
+This is my better design example.
+[Picture: nature.png]
+Learning SOLID principles.
